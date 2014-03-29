@@ -1,4 +1,4 @@
 backbone-paginator
 ==================
 
-Simple Backbone Paginator
+Simple Paginator with Backbone 
